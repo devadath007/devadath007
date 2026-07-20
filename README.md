@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning
+I am a passionate developer focusing on building robust, scalable applications and integrating intelligent features using machine learning. With a strong foundation in backend architecture and system design, I continuously strive to blend logic with real-world utility. Currently exploring computer vision and DevOps methodologies, I am architecting solutions using tools like Flask, YOLO, and FaceNet—including a recent highly accurate automated smart tracking system leveraging asynchronous task queues. I aim to create seamless, high-performance applications from development through deployment. When I am not coding, I am usually optimizing workflows or experimenting with new infrastructure tools to refine system reliability.
 
 
 ## 🌐 Socials:
